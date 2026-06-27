@@ -1,0 +1,66 @@
+[
+    {
+        "Name": "iPhone 15",
+        "Description": "Powerful A16 chip, stunning camera, and sleek design with a vibrant Super Retina display.",
+        "Price": 45000,
+        "PictureUrl": "images/products/iphone15.png",
+        "ProductTypesId": 1,
+        "ProductBrandId": 4
+    },
+    {
+        "Name": "iPhone 15 Pro",
+        "Description": "Titanium design, A17 Pro chip, and advanced Pro camera for ultimate performance.",
+        "Price": 60000,
+        "PictureUrl": "images/products/iphone15pro.png",
+        "ProductTypesId": 1,
+        "ProductBrandId": 4
+    },
+    {
+        "Name": "Samsung S24",
+        "Description": "Premium AMOLED display, AI-powered camera, and powerful all-day performance.",
+        "Price": 35000,
+        "PictureUrl": "images/products/s24.png",
+        "ProductTypesId": 1,
+        "ProductBrandId": 5
+    },
+    {
+        "Name": "Samsung A54",
+        "Description": "Smooth AMOLED display, long battery life, and reliable everyday performance.",
+        "Price": 18000,
+        "PictureUrl": "images/products/a54.png",
+        "ProductTypesId": 1,
+        "ProductBrandId": 5
+    },
+    {
+        "Name": "Xiaomi 13",
+        "Description": "Compact flagship with fast performance and professional camera system.",
+        "Price": 27000,
+        "PictureUrl": "images/products/xiaomi13.png",
+        "ProductTypesId": 1,
+        "ProductBrandId": 6
+    },
+    {
+        "Name": "iPad Air",
+        "Description": "Lightweight design with powerful performance and stunning Liquid Retina display.",
+        "Price": 32000,
+        "PictureUrl": "images/products/ipadair.png",
+        "ProductTypesId": 2,
+        "ProductBrandId": 4
+    },
+    {
+        "Name": "Galaxy Tab S9",
+        "Description": "Premium AMOLED display with S Pen support and powerful multitasking.",
+        "Price": 30000,
+        "PictureUrl": "images/products/tabs9.png",
+        "ProductTypesId": 2,
+        "ProductBrandId": 5
+    },
+    {
+        "Name": "Apple Watch Series 9",
+        "Description": "Smart health tracking, fitness features, and seamless Apple connectivity.",
+        "Price": 20000,
+        "PictureUrl": "images/products/applewatch.png",
+        "ProductTypesId": 3,
+        "ProductBrandId": 4
+    }
+]
